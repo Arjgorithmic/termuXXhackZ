@@ -4,7 +4,7 @@
 <img src="3.jpg"><br><br>
 
 **Termuxxhackz is a complete tool for *Termux* (android) .
-I tryied hard to make this tool feel like GUI please support me if you like this tool  
+I tried hard to make this tool feel like GUI please support me if you like this tool  
 Usimg this tool will help you to Pentest and do hacking .
 This tool is completely safe and legal to use**
 Happy hacking :)<br><br><br>
