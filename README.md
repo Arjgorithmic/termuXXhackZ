@@ -1,15 +1,8 @@
-# About
------------
-.-') _     ('-.  _  .-')  _   .-')              ) (`-.     ) (`-.      ('-. .-.   ('-.    .-. .-')     .-') _<br>
-(  OO) )  _(  OO)( \( -O )( '.( OO )_             ( OO ).    ( OO ).   ( OO )  /  ( OO ).-.\  ( OO )   (  OO) )<br>
-/     '._(,------.,------. ,--.   ,--.),--. ,--. (_/.  \_)-.(_/.  \_)-.,--. ,--.  / . --. /,--. ,--. ,(_)----.<br>
-|'--...__)|  .---'|   /`. '|   `.'   | |  | |  |  \  `.'  /  \  `.'  / |  | |  |  | \-.  \ |  .'   / |       |<br>
-'--.  .--'|  |    |  /  | ||         | |  | | .-') \     /\   \     /\ |   .|  |.-'-'  |  ||      /, '--.   /<br>
-   |  |  (|  '--. |  |_.' ||  |'.'|  | |  |_|( OO ) \   \ |    \   \ | |       | \| |_.'  ||     ' _)(_/   /<br>
-   |  |   |  .--' |  .  '.'|  |   |  | |  | | `-' /.'    \_)  .'    \_)|  .-.  |  |  .-.  ||  .   \   /   /___<br>
-   |  |   |  `---.|  |\  \ |  |   |  |('  '-'(_.-'/  .'.  \  /  .'.  \ |  | |  |  |  | |  ||  |\   \ |        |<br>
-   `--'   `------'`--' '--'`--'   `--'  `-----'  '--'   '--''--'   '--'`--' `--'  `--' `--'`--' '--' `--------'<br>
-       
+
+### About
+---------
+<img src="3.jpg"><br><br>
+
 Termuxxhackz is a complete tool for *Termux* (android) .
 I tryied hard to make this tool feel like GUI please support me if you like this tool  
 Usimg this tool will help you to Pentest and do hacking .
@@ -22,11 +15,34 @@ Happy hacking :)
 
 
 ------------------------------------------------------------------------------------------
+### Tools 
+••• **nmap **<br>
+••• **hydra **<br>
+••• **SQLMap **<br>
+••• **Metasploit **<br>
+••• **ngrok **<br>
+••• **Kali Nethunter **<br>
+••• **angry Fuzzer **<br>
+••• **Red Hawk **<br>
+••• **Weeman **<br>
+••• **IPGeoLocation **<br>
+••• **Instagram Brute Force **<br>
+••• **Twitter BruterForce **<br>
+••• **Ubuntu **<br>
+••• **Fedora **<br>
+••• **viSQL **<br>
+••• **Hash Buster **<br>
+••• **D-TECT **<br>
+••• **routersploit **<br>
+
+
+
+------------------------------------------------------------------------------------------
 
 
 
 
-# Installation 
+### Installation 
 --------------
 Steps :
     ``` apt install git ```<br>
@@ -40,8 +56,10 @@ Install in a single step :<br>
  git clone https://github.com/ARj-cyber/termuXXhackZ.git<br>
 ```
 
+
+
 ------------------------------------------------------------------------------------------
-# Contributions
+###y Contributions
 *We accept your contributions* 
 <br>*UPI id  :* ```arjunpdinesh123@oksbi```
 <br>*Made in india with ❤️*
