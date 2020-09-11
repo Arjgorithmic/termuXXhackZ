@@ -43,5 +43,6 @@ Install in a single step :<br>
 ------------------------------------------------------------------------------------------
 # Contributions
 *We accept your contributions* 
-*UPI id  :* ```arjunpdinesh123@oksbi```
-*Made in india with ❤️*
+<br>*UPI id  :* ```arjunpdinesh123@oksbi```
+<br>*Made in india with ❤️*
+
