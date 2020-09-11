@@ -62,6 +62,6 @@ Install in a single step :<br>
 ------------------------------------------------------------------------------------------
 ### Contributions
 **We accept your contributions**
-<br> **UPI id  :** ```arjunpdinesh123@oksbi```
+
 <br> **Made in india with ❤️**
 
