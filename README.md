@@ -16,24 +16,25 @@ Happy hacking :)
 
 ------------------------------------------------------------------------------------------
 ### Tools 
-••• **nmap **<br>
-••• **hydra **<br>
-••• **SQLMap **<br>
-••• **Metasploit **<br>
-••• **ngrok **<br>
-••• **Kali Nethunter **<br>
-••• **angry Fuzzer **<br>
-••• **Red Hawk **<br>
-••• **Weeman **<br>
-••• **IPGeoLocation **<br>
-••• **Instagram Brute Force **<br>
-••• **Twitter BruterForce **<br>
-••• **Ubuntu **<br>
-••• **Fedora **<br>
-••• **viSQL **<br>
-••• **Hash Buster **<br>
-••• **D-TECT **<br>
-••• **routersploit **<br>
+
+••• **nmap** <br>
+••• **hydra** <br>
+••• **SQLMap** <br>
+••• **Metasploit** <br>
+••• **ngrok** <br>
+••• **Kali Nethunter** <br>
+••• **angry Fuzzer** <br>
+••• **Red Hawk** <br>
+••• **Weeman**<br>
+••• **IPGeoLocation**<br>
+••• **Instagram Brute Force** <br>
+••• **Twitter BruterForce** <br>
+••• **Ubuntu** <br>
+••• **Fedora** <br>
+••• **viSQL** <br>
+••• **Hash Buster** <br>
+••• **D-TECT** <br>
+••• **routersploit** <br>
 
 
 
