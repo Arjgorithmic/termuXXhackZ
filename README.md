@@ -5,7 +5,7 @@
 
 **Termuxxhackz is a complete tool for *Termux* (android) .
 I tried hard to make this tool feel like GUI please support me if you like this tool  
-Usimg this tool will help you to Pentest and do hacking .
+Using this tool will help you to Pentest and do hacking .
 This tool is completely safe and legal to use**
 Happy hacking :)<br><br><br>
 <img src="1.jpg"><br><br><br>
